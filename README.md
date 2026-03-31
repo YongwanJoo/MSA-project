@@ -45,6 +45,9 @@ Spring Boot 기반의 마이크로서비스 아키텍처(MSA) 계좌·거래 데
 
 <h2 id="architecture">3. 🏗 아키텍처 및 기술 스택</h2>
 
+<img width="2816" height="1536" alt="msa" src="https://github.com/user-attachments/assets/2f5864c8-e444-41de-8771-481193a1d7ca" />
+
+
 ### Infrastructure (Cloud Native)
 - **Cloud**: Google Cloud Platform (GKE Standard Cluster, Artifact Registry)
 - **IaC**: Terraform (GKE Cluster & Node Pool 프로비저닝)
